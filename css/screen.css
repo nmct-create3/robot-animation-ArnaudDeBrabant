@@ -27,6 +27,12 @@
     Global page styles + universal box-sizing:
 */
 
+li {
+  list-style: none;
+  display: inline-block;
+  gap: 20px;
+}
+
 html {
   font-size: 16px;
   line-height: 1.5;
@@ -147,7 +153,7 @@ body {
 .c-controls {
   display: flex;
   justify-content: center;
-  margin-top: 550px;
+  margin-top: 600px;
 }
 
 .c-control__list {
