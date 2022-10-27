@@ -1,0 +1,16 @@
+
+
+:root{
+
+}
+
+html{
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+

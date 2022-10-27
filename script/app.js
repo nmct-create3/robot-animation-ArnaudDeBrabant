@@ -45,3 +45,6 @@ btnSlow.onclick = () => tl.timeScale(0.5);
 
 const btnNormal = document.querySelector('.js-normal');
 btnNormal.onclick = () => tl.timeScale(1);
+
+
+animation.beginElement();
